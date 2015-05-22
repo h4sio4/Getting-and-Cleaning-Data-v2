@@ -1,4 +1,3 @@
-# readme.md
 # Getting-and-Cleaning-Data-Project 
 
 ## Instructions of the project
